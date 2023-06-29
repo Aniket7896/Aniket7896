@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Aniket7896.github.io](Aniket7896.github.io)
 
-- 💬 Ask me about **react,html,css and javascript**
+- 💬 Ask me about **react,HTML,CSS, and javascript**
 
 - 📫 How to reach me **anidubey7896@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aniket dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket dubey" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/aniket-dubey-2a6180242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket dubey" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aniket7896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aniket7896" height="30" width="40" /></a>
 </p>
 
