@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket7896&label=Profile%20views&color=0e75b6&style=flat" alt="aniket7896" /> </p>
 
-- 👨‍💻 All of my projects are available at [Aniket7896.github.io](Aniket7896.github.io)
+- 👨‍💻 All of my projects are available at [Aniket7896.github.io](https://aniket7896.github.io)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN**
 
