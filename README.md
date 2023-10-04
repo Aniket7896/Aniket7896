@@ -7,16 +7,16 @@
 
 - 👨‍💻 All of my projects are available at [Aniket7896.github.io](Aniket7896.github.io)
 
-- 💬 Ask me about **react,HTML,CSS, and javascript**
+- 💬 Ask me about **HTML, CSS, JavaScript, MERN**
 
 - 📫 How to reach me **anidubey7896@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fX15c-0zKqy45NzC_0Afmjiw7c8s9Cax/view?usp=sharing](https://drive.google.com/file/d/1fX15c-0zKqy45NzC_0Afmjiw7c8s9Cax/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fLgozmtgw3A0Fo9lL0dnrtHZxHw_PiqJ/view?usp=sharing](https://drive.google.com/file/d/1fLgozmtgw3A0Fo9lL0dnrtHZxHw_PiqJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/aniket-dubey-2a6180242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket dubey" height="30" width="40" /></a>
-<a href="https://codesandbox.com/aniket7896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aniket7896" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/aniket-dubey-2a6180242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aniket-dubey-2a6180242" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/aniket7896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/aniket7896" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
